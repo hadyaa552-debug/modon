@@ -5,7 +5,7 @@ import{useRouter}from"next/navigation";
 const P="01117322733",PD="0111 732 2733",PI="+201117322733",WN="201117322733";
 const WM="مرحباً، محتاج تفاصيل مدن راس الحكمة — Modon Ras El Hekma — وادي يم Wadi Yemm";
 const WU=`https://wa.me/${WN}?text=${encodeURIComponent(WM)}`;
-const WK="PASTE_WEB3FORMS_KEY_HERE";
+const WK="ee750b36-1c4d-465e-a364-9cd12ffb4246";
 
 function trackCall(l="call"){if(typeof window!=="undefined"&&(window as any).gtag)(window as any).gtag("event","click_call",{event_category:"contact",event_label:l});}
 function trackWA(l="wa"){if(typeof window!=="undefined"&&(window as any).gtag)(window as any).gtag("event","click_whatsapp",{event_category:"contact",event_label:l});}
