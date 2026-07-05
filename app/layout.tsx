@@ -17,7 +17,7 @@ export default function L({children}:{children:React.ReactNode}){return(
     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous"/>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet"/>
     {/* ══ Google Ads Tag ══ */}
-    {/* <script async src="https://www.googletagmanager.com/gtag/js?id=AW-XXXXXXX" /> */}
+    {/* <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18269611516" /> */}
     {/* <script dangerouslySetInnerHTML={{__html:`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','AW-XXXXXXX');`}} /> */}
   </head><body>{children}</body></html>
 );}
